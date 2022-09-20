@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -al
-id -u
-id -g
+ls -la id -u id -g 
